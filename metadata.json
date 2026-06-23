@@ -1,0 +1,6 @@
+{
+  "name": "Z-Buffer Mini Theater",
+  "description": "An interactive educational web demo explaining hidden surface removal by comparing Painter's Algorithm with the Z-buffer algorithm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
